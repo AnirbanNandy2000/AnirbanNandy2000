@@ -6,8 +6,8 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/19560664/anirban-nandy)
 
 I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+Intern at Edureka doing Full Stack Web Development Internship. Till now I have knowledge about only HTML.
+
 
 
 ![Visitor Count](https://profile-counter.glitch.me/AnirbanNandy2000/count.svg)
