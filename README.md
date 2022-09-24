@@ -6,7 +6,7 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/19560664/anirban-nandy)
 
 I'm
-Intern at Edureka doing Full Stack Web Development Internship. Till now I have knowledge about only HTML,CSS and Bootstrap.
+Intern at Edureka doing Full Stack Web Development Internship. Till now I have knowledge about only HTML,CSS, Bootstrap and Javascript.
 
 
 
